@@ -1,0 +1,21 @@
+{
+  "name": "water-html",
+  "version": "1.0.0",
+  "description": "万得水商场HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.66.2.13:WaterfulTeam/WaterHTML.git"
+  },
+  "author": "liujinx",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-plumber": "^1.1.0",
+    "less-plugin-autoprefix": "^1.5.1"
+  }
+}
