@@ -19,3 +19,17 @@ gulp 执行编译
 
 gulp watch 执行自动编译（保存就编译）
 ~~~
+
+## VS code 插件
+
+~~~
+VS Code Recommended extensions:
+ESlint
+Prettier - Code formatter
+React Native Tools
+Flow Language Support
+DotENV
+EditorConfig for VS Code
+Git History
+Git Blame
+~~~
